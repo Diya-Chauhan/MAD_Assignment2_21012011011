@@ -1,4 +1,4 @@
-zzpackage com.diyachauhan.mad_assignment2_21012011011
+package com.diyachauhan.mad_assignment2_21012011011
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
