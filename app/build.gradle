@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace 'com.diyachauhan.mad_assignment2_21012011011'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.diyachauhan.mad_assignment2_21012011011"
@@ -30,6 +30,7 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
+
 }
 
 dependencies {
